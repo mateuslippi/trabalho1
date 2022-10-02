@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1664685940 source:c:\users\administrador\desktop\c\projeto1\main.c
+1664691188 source:c:\users\administrador\desktop\c\projeto1\main.c
 	<stdio.h>
 	<math.h>
+	<locale.h>
 

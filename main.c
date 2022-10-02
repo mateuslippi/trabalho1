@@ -1,3 +1,5 @@
+// Usuário do github: mateuslippi
+
 #include <stdio.h>
 #include <math.h>
 #include <locale.h>
@@ -49,7 +51,7 @@ int main()
             scanf("%lf", &valor2);
             soma = valor1 + valor2;
             printf("\n");
-            printf("O resultado da soma de %.2lf e %.2lf é: %2.lf", valor1, valor2, soma);
+            printf("O resultado da soma de %.2lf e %.2lf é: %.2lf", valor1, valor2, soma);
             break;
 
         //Segundo caso: Usuário escolheu a operação de subtração:
